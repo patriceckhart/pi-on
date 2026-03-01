@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		435471D92F53758900F6C2C9 /* Pi On.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pi On.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA000001000000000000000A /* Pi On.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pi On.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		435471DB2F53758900F6C2C9 /* Pi On */ = {
+		AA000002000000000000000A /* Pi On */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Pi On";
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		435471D62F53758900F6C2C9 /* Frameworks */ = {
+		AA000003000000000000000A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		435471D02F53758900F6C2C9 = {
+		AA000004000000000000000A = {
 			isa = PBXGroup;
 			children = (
-				435471DB2F53758900F6C2C9 /* Pi On */,
-				435471DA2F53758900F6C2C9 /* Products */,
+				AA000002000000000000000A /* Pi On */,
+				AA000005000000000000000A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		435471DA2F53758900F6C2C9 /* Products */ = {
+		AA000005000000000000000A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				435471D92F53758900F6C2C9 /* Pi On.app */,
+				AA000001000000000000000A /* Pi On.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		435471D82F53758900F6C2C9 /* Pi On */ = {
+		AA000006000000000000000A /* Pi On */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 435471E42F53758A00F6C2C9 /* Build configuration list for PBXNativeTarget "Pi On" */;
+			buildConfigurationList = AA00000D000000000000000A /* Build configuration list for PBXNativeTarget "Pi On" */;
 			buildPhases = (
-				435471D52F53758900F6C2C9 /* Sources */,
-				435471D62F53758900F6C2C9 /* Frameworks */,
-				435471D72F53758900F6C2C9 /* Resources */,
+				AA000007000000000000000A /* Sources */,
+				AA000003000000000000000A /* Frameworks */,
+				AA000008000000000000000A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				435471DB2F53758900F6C2C9 /* Pi On */,
+				AA000002000000000000000A /* Pi On */,
 			);
 			name = "Pi On";
 			packageProductDependencies = (
 			);
 			productName = "Pi On";
-			productReference = 435471D92F53758900F6C2C9 /* Pi On.app */;
+			productReference = AA000001000000000000000A /* Pi On.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		435471D12F53758900F6C2C9 /* Project object */ = {
+		AA000009000000000000000A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					435471D82F53758900F6C2C9 = {
+					AA000006000000000000000A = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = 435471D42F53758900F6C2C9 /* Build configuration list for PBXProject "Pi On" */;
+			buildConfigurationList = AA00000A000000000000000A /* Build configuration list for PBXProject "Pi On" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 435471D02F53758900F6C2C9;
+			mainGroup = AA000004000000000000000A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 435471DA2F53758900F6C2C9 /* Products */;
+			productRefGroup = AA000005000000000000000A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				435471D82F53758900F6C2C9 /* Pi On */,
+				AA000006000000000000000A /* Pi On */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		435471D72F53758900F6C2C9 /* Resources */ = {
+		AA000008000000000000000A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		435471D52F53758900F6C2C9 /* Sources */ = {
+		AA000007000000000000000A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		435471E22F53758A00F6C2C9 /* Debug */ = {
+		AA00000B000000000000000A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		435471E32F53758A00F6C2C9 /* Release */ = {
+		AA00000C000000000000000A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,26 +245,29 @@
 			};
 			name = Release;
 		};
-		435471E52F53758A00F6C2C9 /* Debug */ = {
+		AA00000E000000000000000A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "Pi On Icon";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_ICON_COMPOSER_FILE = "$(SRCROOT)/Pi On/Pi On Icon.icon";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CJ4UG2V8WB;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Pi On";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.patriceckhart.Pi-On";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
@@ -277,26 +280,29 @@
 			};
 			name = Debug;
 		};
-		435471E62F53758A00F6C2C9 /* Release */ = {
+		AA00000F000000000000000A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "Pi On Icon";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_ICON_COMPOSER_FILE = "$(SRCROOT)/Pi On/Pi On Icon.icon";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CJ4UG2V8WB;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Pi On";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.patriceckhart.Pi-On";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
@@ -312,25 +318,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		435471D42F53758900F6C2C9 /* Build configuration list for PBXProject "Pi On" */ = {
+		AA00000A000000000000000A /* Build configuration list for PBXProject "Pi On" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				435471E22F53758A00F6C2C9 /* Debug */,
-				435471E32F53758A00F6C2C9 /* Release */,
+				AA00000B000000000000000A /* Debug */,
+				AA00000C000000000000000A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		435471E42F53758A00F6C2C9 /* Build configuration list for PBXNativeTarget "Pi On" */ = {
+		AA00000D000000000000000A /* Build configuration list for PBXNativeTarget "Pi On" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				435471E52F53758A00F6C2C9 /* Debug */,
-				435471E62F53758A00F6C2C9 /* Release */,
+				AA00000E000000000000000A /* Debug */,
+				AA00000F000000000000000A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 435471D12F53758900F6C2C9 /* Project object */;
+	rootObject = AA000009000000000000000A /* Project object */;
 }
